@@ -13,3 +13,4 @@ if(file_exists(PATH.'/index.php')){
 }else{
     echo "Vui Lòng Cập nhập trang web trước khi truy cập";
 }
+?>
