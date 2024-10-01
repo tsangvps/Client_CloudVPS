@@ -8,7 +8,7 @@ define('PATH', __DIR__.'/../storage/');
 
 // Máy Chủ Key
 define('KeyAPI', ''); //Liên Hệ fb: https://facebook.com/tsangvps.com để được hỗ trợ
-define('encryptionKey', ''); //Liên Hệ fb: https://facebook.com/tsangvps.com để được hỗ trợ
+define('encryptionKey', '123'); //Liên Hệ fb: https://facebook.com/tsangvps.com để được hỗ trợ
 define('encryptionIv', ''); //Liên Hệ fb: https://facebook.com/tsangvps.com để được hỗ trợ
 define("IP_ADMIN", []);
 
